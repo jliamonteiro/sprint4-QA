@@ -2,9 +2,20 @@
 
 
 - Link Azure: https://dev.azure.com/SmarttMottu/SmartMottu-board
-- Link vídeo: 
+- Link vídeo: https://youtu.be/Zk5Okvcq4S8
 
 ---
+
+## 👥 Integrantes do Grupo
+
+| Nome Completo                            | RM      | Turma   |
+|------------------------------------------|---------:|:--------|
+| Julia Monteiro                           | 557023   | 2TDSPV  |
+| Sofia Andrade Petruk                     | 556585   | 2TDSPV  |
+| Victor Henrique Estrella Carracci        | 556206   | —       |
+
+---
+
 
 ## Índice
 - [Autenticação de Usuário](#autentica%C3%A7%C3%A3o-de-usu%C3%A1rio)
@@ -39,6 +50,7 @@
 
 - Testar abertura da tela de aluguel  
 - Testar seleção de moto disponível para aluguel  
+
 
 
 
