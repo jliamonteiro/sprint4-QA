@@ -10,7 +10,6 @@
 - [Autenticação de Usuário](#autentica%C3%A7%C3%A3o-de-usu%C3%A1rio)
 - [Cadastro e Gerenciamento de Motos](#cadastro-e-gerenciamento-de-motos)
 - [Sistema de Aluguel](#sistema-de-aluguel)
-- [Interação de Usuário](#intera%C3%A7%C3%A3o-de-usu%C3%A1rio)
 
 ---
 
@@ -42,16 +41,6 @@
 - Testar seleção de moto disponível para aluguel  
 
 
----
 
-## **Epic:** Cadastro e Login de Usuário
-**Feature:** Interface de Cadastro e Autenticação
-
-- Testar exibição dos campos de cadastro (nome, e-mail, senha)  
-- Testar mensagem de erro para campos vazios ou formato inválido  
-- Testar login com credenciais corretas e redirecionamento à tela principal  
-- Testar login com credenciais incorretas e exibição de mensagem de erro  
-
----
 
 
