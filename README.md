@@ -12,7 +12,7 @@
 |------------------------------------------|---------:|:--------|
 | Julia Monteiro                           | 557023   | 2TDSPV  |
 | Sofia Andrade Petruk                     | 556585   | 2TDSPV  |
-| Victor Henrique Estrella Carracci        | 556206   | —       |
+| Victor Henrique Estrella Carracci        | 556206   | 2TDSPH  |
 
 ---
 
@@ -50,6 +50,7 @@
 
 - Testar abertura da tela de aluguel  
 - Testar seleção de moto disponível para aluguel  
+
 
 
 
